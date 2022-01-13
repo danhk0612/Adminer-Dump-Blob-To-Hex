@@ -77,5 +77,7 @@ class AdminerDumpBlobToHex {
 				echo "-- " . str_replace("\n", " ", $connection->error) . "\n";
 			}
 		}
+
+            return false;
 	}
 }
