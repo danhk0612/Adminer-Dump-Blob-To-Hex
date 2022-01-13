@@ -10,7 +10,7 @@ require_once $_SERVER['DOCUMENT_ROOT']."/adm/_adminer/plugins/dump-blobToHex.php
 
 $plugins = array(
   new AdminerDumpBlobToHex()
-  );
+);
 
-  return new AdminerPlugin($plugins);
+return new AdminerPlugin($plugins);
 ```
