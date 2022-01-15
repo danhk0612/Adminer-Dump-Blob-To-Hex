@@ -1,7 +1,7 @@
 # Adminer-Dump-Blob-To-Hex
 =================================
 
-Plugin for [Adminer](http://http://www.adminer.org/ "www.adminer.com").
+Plugin for [Adminer](http://www.adminer.org/ "www.adminer.com").
 
 This plug-in that convert data in blob format to hex format when export a sql file.
 
